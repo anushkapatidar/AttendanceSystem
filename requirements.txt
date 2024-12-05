@@ -1,0 +1,7 @@
+pip install pandas
+pip install numpy
+pip install opencv
+pip install face_recognition
+pip install firebase_admin
+pip install openpyxl
+pip install pillow
